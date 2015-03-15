@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Kiedy inicjalizyjesz repozytorium powstaje ukryty katalog z metadanymi. Trzeba to zrobić żeby było gdzie trzymać informacje o zmianach.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Staging area jest miejscem przejściowym potrzebnym do stworzenia commitment. Nie jest folderem jak working directory ani repozytorium które zawiera wszystkie pliki. Pozwala dokładniej się przyjrzeć zmianom, które zostaną zarejestrowane w commit.
+
