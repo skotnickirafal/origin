@@ -7,3 +7,23 @@ What value do you think it offers?
 
 Staging area jest miejscem przejściowym potrzebnym do stworzenia commitment. Nie jest folderem jak working directory ani repozytorium które zawiera wszystkie pliki. Pozwala dokładniej się przyjrzeć zmianom, które zostaną zarejestrowane w commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Przeprowadzając większą ilość poprawek niekoniecznie związanych z jedną logiczną zmianą można posiłkować się staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Sytuacje, w których nie jesteśmy pewni czy dane zmiany będą dobre, lub jest coś totalnie testowe.
+
+How do the diagrams help you visualize the branch structure?
+
+Bo mogę je zobaczyć a przy dużej ilości rozgalęzień może byc trudno.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Rezultatem jest połączenie dwóch rozgałęzień. Celem jest pokazanie, że składają się z dwóch różnych gałęzi.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatyczne łączenie jest wygodne jeżeli niezależne osoby pracują nad innymi funkcjonalnościami. Manualne jeżeli natrafi się na konflikt.
+
