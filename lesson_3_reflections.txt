@@ -10,3 +10,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Fork tworzy kopię na GitHubie. Clone kopiuje z lokalnego lub zewnętrznego źródła. Branch tworzy oddzielną gałąź. Fork gdy chcę tworzyć coś z innymi. Clone gdy chcę pobrać zawartość repozytorium. Branch gdy chcę stworzyć coś w danym repozytorium będące dodatkową zawartością - nie zawsze dodaną do głównej gałęzi.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Dzięki temu wiemy kto od tamtego czasu wprowadzał zmiany i jakie to były zmiany.
+
+
