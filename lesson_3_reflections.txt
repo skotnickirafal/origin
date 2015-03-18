@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Gdy korzysta z niego wiele osób nie będących w sieci lokalnej. Ze względów bezpieczeństwa.
