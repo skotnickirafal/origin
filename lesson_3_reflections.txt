@@ -6,3 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Nie każda zmiana w kodzie powoduje zmianę logiczną, od której są commits. Równocześnie nie każda zmiana logiczna nadaje się do zmiany głównej gałęzi w repozytorium.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork tworzy kopię na GitHubie. Clone kopiuje z lokalnego lub zewnętrznego źródła. Branch tworzy oddzielną gałąź. Fork gdy chcę tworzyć coś z innymi. Clone gdy chcę pobrać zawartość repozytorium. Branch gdy chcę stworzyć coś w danym repozytorium będące dodatkową zawartością - nie zawsze dodaną do głównej gałęzi.
+
