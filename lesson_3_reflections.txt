@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Gdy korzysta z niego wiele osób nie będących w sieci lokalnej. Ze względów bezpieczeństwa.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Nie każda zmiana w kodzie powoduje zmianę logiczną, od której są commits. Równocześnie nie każda zmiana logiczna nadaje się do zmiany głównej gałęzi w repozytorium.
+
